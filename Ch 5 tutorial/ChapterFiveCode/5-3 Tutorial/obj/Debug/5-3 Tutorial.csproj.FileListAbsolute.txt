@@ -1,0 +1,10 @@
+D:\ChapterFiveCode\Ch 5 tutorial\5-3 Tutorial\bin\Debug\5-3 Tutorial.exe.config
+D:\ChapterFiveCode\Ch 5 tutorial\5-3 Tutorial\bin\Debug\5-3 Tutorial.exe
+D:\ChapterFiveCode\Ch 5 tutorial\5-3 Tutorial\bin\Debug\5-3 Tutorial.pdb
+D:\ChapterFiveCode\Ch 5 tutorial\5-3 Tutorial\obj\Debug\5-3 Tutorial.csprojResolveAssemblyReference.cache
+D:\ChapterFiveCode\Ch 5 tutorial\5-3 Tutorial\obj\Debug\_5_3_Tutorial.Form1.resources
+D:\ChapterFiveCode\Ch 5 tutorial\5-3 Tutorial\obj\Debug\_5_3_Tutorial.Properties.Resources.resources
+D:\ChapterFiveCode\Ch 5 tutorial\5-3 Tutorial\obj\Debug\5-3 Tutorial.csproj.GenerateResource.Cache
+D:\ChapterFiveCode\Ch 5 tutorial\5-3 Tutorial\obj\Debug\5-3 Tutorial.csproj.CoreCompileInputs.cache
+D:\ChapterFiveCode\Ch 5 tutorial\5-3 Tutorial\obj\Debug\5-3 Tutorial.exe
+D:\ChapterFiveCode\Ch 5 tutorial\5-3 Tutorial\obj\Debug\5-3 Tutorial.pdb
